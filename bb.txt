@@ -1,2 +1,7 @@
 250407
 git
+
+(N19computer에서 수정작업)
+250407
+git
+hello git~
